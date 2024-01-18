@@ -1,3 +1,7 @@
+<script>
+	import {Button} from "bits-ui";
+</script>
+
 
 <main class="w-full px-8 ">
 	<section class="w-full bg-yellow-100 px-8 py-8 xl:px-24 xl:py-24 rounded-3xl mb-12">
